@@ -12,6 +12,7 @@ public class LoginTest {
 	@BeforeTest
 	public void setup()
 	{
+		//Login Test
 		WebDriverManager.firefoxdriver().setup();
 		driver=new FirefoxDriver();
 		
