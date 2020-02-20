@@ -33,7 +33,7 @@
   		<plugin>
   			<groupId>Maven Plugin</groupId>
   			<artifactId>Maven Plugin</artifactId>
-  			<version></version>
+  			<version>3.6.0</version>
   		</plugin>
   	</plugins>
   </build>
