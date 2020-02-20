@@ -12,7 +12,7 @@ public class LoginTest {
 	@BeforeTest
 	public void setup()
 	{
-		//Login Test new file
+		//Login Test new file in Maven
 		WebDriverManager.firefoxdriver().setup();
 		driver=new FirefoxDriver();
 		
