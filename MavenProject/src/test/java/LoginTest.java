@@ -22,7 +22,7 @@ public class LoginTest {
 	@Test
 	public void doLogin()
 	{
-		driver.get("http://gmail.com");
+		driver.get("http://www.facebook.com");
 		driver.findElement(By.id("email")).sendKeys("lalita.asm");
 		driver.findElement(By.id("pass")).sendKeys("lalita.asm");
 	}
